@@ -3,7 +3,7 @@ The dataset is imported from Kaggle. The link of Kaggle dataset is "https://www.
 There are 6 different classes of weld defects and are given below:
 good weld           0 , burn through        1 ,  contamination       2 ,  lack of fusion      3 , misalignment        4 , lack of penetration 5
 
-# Good Weld (0):
+## Good Weld (0):
 This represents a weld that has been executed correctly, where the weld metal and base materials are appropriately fused without any visible defects, achieving structural integrity and the necessary aesthetic qualities.
 # Burn Through (1):
 This defect occurs when excessive heat causes the welding metal to melt through the workpiece, creating a hole or excessively thin section. It compromises the strength and appearance of the weld.
